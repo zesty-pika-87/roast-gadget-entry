@@ -1,4 +1,5 @@
 // One-line roast of the gadget I use every day: my earbuds, which pair with everything but my phone.
+// The gate allows 1 to 200 characters; this line is 104, so it fits with room to spare.
 // The program writes exactly one line to /output/entry.txt, with no trailing newline.
 import { mkdirSync, writeFileSync } from "node:fs";
 
